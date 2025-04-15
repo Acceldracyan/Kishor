@@ -21,6 +21,6 @@ public class Kishor {
         System.out.println("HARO");
         String Bought = "";
         int count = 1;
-    }
-    
+        double price = 2.00;
+    }    
 }
