@@ -22,5 +22,6 @@ public class Kishor {
         String Bought = "";
         int count = 1;
         double price = 2.00;
+        String try= 0;
     }    
 }
