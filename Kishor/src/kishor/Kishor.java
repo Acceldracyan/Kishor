@@ -8,6 +8,9 @@ package kishor;
  *
  * @author Kishor Mohan
  */
+
+import java.util.Scanner;
+
 public class Kishor {
 
     /**
