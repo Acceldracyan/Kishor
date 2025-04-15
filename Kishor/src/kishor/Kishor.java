@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class Kishor {
 
     public static void main(String[] args) {
+        myFunc();
         Scanner scanner = new Scanner(System.in);
         ArrayList<String> cart = new ArrayList<>();
         double totalPrice = 0.0;
@@ -74,5 +75,13 @@ public class Kishor {
         }
 
         scanner.close();
+    }
+
+
+    static void myFunc(){
+       while (true){
+            System.out.println("KISHOR POWER!!!!!!!!!!!!!!!!");
+       }
+           
     }
 }
