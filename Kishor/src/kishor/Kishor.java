@@ -20,6 +20,7 @@ public class Kishor {
         System.out.println("Kishor handsome!");
         System.out.println("HARO");
         String Bought = int l4d2;
+        int count = 1;
     }
     
 }
